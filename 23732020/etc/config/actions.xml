@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<oneoff_actions>
+    <oracle.webservices.base opt_req="O" symbol="jrf.symbol" version="12.2.1.2.0">
+        <jar class_name="modules/com.oracle.webservices.disi-impl.jar/com/oracle/webservices/impl/wsdl/WSDLPortImpl.class" name="com.oracle.webservices.disi-impl.jar" path="%ORACLE_HOME%/%SYMBOL%/modules" shaolue="B188F580C1C02ECF9DB6CD4A704A6C7CD583F786"/>
+    </oracle.webservices.base>
+</oneoff_actions>
