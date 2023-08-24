@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<oneoff_actions>
-    <oracle.wls.libraries opt_req="O" symbol="wls.server.symbol" version="12.2.1.2.0">
-        <jar class_name="modules/com.oracle.weblogic.socket.jar/weblogic/socket/utils/JSSEUtils.class" name="com.oracle.weblogic.socket.jar" path="%ORACLE_HOME%/%SYMBOL%/modules" shaolue="45C3E877C1303332A034590CB8A652D61D5197F4"/>
-    </oracle.wls.libraries>
-</oneoff_actions>
