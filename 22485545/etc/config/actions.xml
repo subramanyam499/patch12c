@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<oneoff_actions>
-    <oracle.wls.common.nodemanager opt_req="O" symbol="wls.common.cam.symbol" version="12.2.1.2.0">
-        <jar class_name="modules/com.oracle.core.nodemanager.server.jar/weblogic/nodemanager/server/ServerManager.class" name="com.oracle.core.nodemanager.server.jar" path="%ORACLE_HOME%/%SYMBOL%/modules" shaolue="00967338E9F5BEDAE0D747A983C435EFA6D2A071"/>
-    </oracle.wls.common.nodemanager>
-</oneoff_actions>
